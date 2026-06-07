@@ -1,0 +1,16 @@
+{
+  "name": "68gb-bot-ai",
+  "version": "1.0.0",
+  "description": "68GB Super AI Prediction Bot with Ensemble Self-Learning",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["68gb", "bot", "prediction", "taixiu", "md5", "ensemble", "ai"],
+  "author": "Dwong1410",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
